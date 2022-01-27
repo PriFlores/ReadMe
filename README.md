@@ -26,7 +26,6 @@
   <a href= "mailto:pri_256@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target= "_blank"></a>
   <a href="https://www.linkedin.com/in/priscila-flores-45682bb6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    
-    ![Snake animation](https://github.com/priflores/priflores/blob/output/github-contribution-grid-snake.svg)
- 
+  ![Snake animation](https://github.com/priflores/.github/workflows/blank.yml/blob/output/github-contribution-grid-snake.svg)
   </div>
 
