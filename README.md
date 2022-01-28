@@ -1,6 +1,6 @@
 ### Hello I am Priscila! 👋
 
-- 🔭 I’m currently enrolled in a Honours Bachelors/Diploma Computer Science course at CCT College in Dublin.
+- 🔭 I’m currently enrolled in an Honours Bachelors/Diploma Computer Science course at CCT College in Dublin.
 - 🌱 I’m currently learning Programming Languages as Python, Java, JS and SQL.
 ##
 <div align="center">
