@@ -1,7 +1,15 @@
 ### Hello I am Priscila! 👋
 
-- 🔭 I’m currently enrolled in an Honours Bachelors/Diploma Computer Science course at CCT College in Dublin.
-- 🌱 I’m currently learning Programming Languages as Python, Java, JS and SQL.
+- 🔭 Recent graduate with a Higher Diploma in Computer Science at CCT College in Dublin.
+- 🌱 Looking for an entry- level opportunity in ICT  
+- 🛠 Operating system: Linux and Windows
+- 🌎 Networking 
+- 💻 back end: Java, Python 
+- 📟 front end: HTML5, CSS3, JS, Bootstrap
+- 🖥 Webframes: Django, Angular, Node modules 
+- 📂 Database: SQL, MySQL, SQLite 
+- 📱 Mobile development: Ionic 6 
+- 📈 Version control: GIT, GITPOD
 ##
 <div align="center">
   <a href="https://github.com/PriFlores">
