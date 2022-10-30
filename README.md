@@ -26,6 +26,8 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align= "center"alt="mySQL" height= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align= "center" alt= "Python" height= "30" width= "40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align= "center" alt= "Python" height= "30" width= "40"src="    https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor
+.svg" />
   
 </div>
 <br>
